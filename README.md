@@ -1,2 +1,8 @@
-# browserify-installing-script
-Installing Browserify with bash
+# Browserify Install Script
+
+Setup for installing browserify
+
+## Run
+```
+./init.sh
+```
